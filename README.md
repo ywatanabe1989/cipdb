@@ -1,5 +1,5 @@
 <!-- ---
-!-- Timestamp: 2025-08-29 04:53:00
+!-- Timestamp: 2025-08-29 07:58:51
 !-- Author: ywatanabe
 !-- File: /home/ywatanabe/proj/cipdb/README.md
 !-- --- -->
@@ -27,7 +27,7 @@ pip install cipdb
 cipdb.disable()
 ```
 
-# Disable all debugging by Environmental Variable
+### Controll by Environmental Variable
 
 ``` python
 CIPDB_ID=false python your_script.py
